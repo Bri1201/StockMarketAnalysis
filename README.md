@@ -6,9 +6,8 @@ This project focuses on analyzing stocks in the Indian stock market by utilizing
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Configuration](#configuration)
-- [AWS Lambda Integration](#aws-lambda-integration)
-- [Contact](#contact)
+- [Installation](#installation)
+
 
 ## Introduction
 
