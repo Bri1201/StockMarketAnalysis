@@ -1,4 +1,4 @@
-# Indian Stock Market Analysis Project
+# Stock Surge Notifier: Tracking Trade Volume Growth for Timely Updates
 
 This project focuses on analyzing stocks in the Indian stock market by utilizing the `yfinance` library in Python. It aims to identify and highlight stocks with significant growth in trade volume over the past few hours. The project employs AWS Lambda for executing frequent code runs and automating the process of data analysis and notification.
 
